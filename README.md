@@ -107,7 +107,7 @@ In the second loop, the variable `i` was declared using the `let` keyword: varia
 
 ---
 
-###### 3. What's the output?
+###### 3. What's the output? *********
 
 ```javascript
 const shape = {
